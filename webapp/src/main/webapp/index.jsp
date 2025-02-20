@@ -20,7 +20,7 @@ div.container {
 <body>
 <h1> Welcome to VIT -DevOps Lab </h1>
 <h2> You've successfully deployed CI/CD Pipeline using jenkins </h2>
-
+<h2> This is new content </h2>
 
 <h3> Image Tag </h3>
 <div class="polaroid">

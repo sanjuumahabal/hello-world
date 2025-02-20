@@ -1,5 +1,20 @@
 <h1> Welcome to VIT -DevOps Lab </h1>
 <h2> You've successfully deployed CI/CD Pipeline using jenkins </h2>
+<style>
+body {margin:25px;}
+
+div.polaroid {
+  width: 80%;
+  background-color: white;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  margin-bottom: 25px;
+}
+
+div.container {
+  text-align: center;
+  padding: 10px 20px;
+}
+</style>
 
 <h3> Image Tag </h3>
 <div class="polaroid">

@@ -1,5 +1,6 @@
-<h1> Welcome to VIT -DevOps Lab </h1>
-<h2> You've successfully deployed CI/CD Pipeline using jenkins </h2>
+<!DOCTYPE html>
+<html>
+<head>
 <style>
 body {margin:25px;}
 
@@ -15,6 +16,11 @@ div.container {
   padding: 10px 20px;
 }
 </style>
+</head>
+<body>
+<h1> Welcome to VIT -DevOps Lab </h1>
+<h2> You've successfully deployed CI/CD Pipeline using jenkins </h2>
+
 
 <h3> Image Tag </h3>
 <div class="polaroid">
@@ -23,4 +29,6 @@ div.container {
   <p>Northern Lights</p>
   </div>
 </div>
+</body>
+</html>
 
